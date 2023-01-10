@@ -20,3 +20,9 @@ git push - запушить на github.
 git clone урл_репозитория - склонировать с github.
 git pull - забрать все последние изминения которые были(перед тем, как начать работу).
 git pull request - запрос на вливание изменений из вашей ветки в основную ветку.
+
+git branch -M main - переименовать ветку "master" в "main" git
+
+Привязка удаленного репозитория к локальному
+git remote add origin https://github.com/daniaminakov/git-crib.git
+git push -u origin master
