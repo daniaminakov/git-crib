@@ -1,2 +1,2 @@
 # git-crib
-Git commands ;)
+Git commands :)
