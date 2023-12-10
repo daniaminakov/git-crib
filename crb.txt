@@ -29,3 +29,5 @@ git branch -M main - переименовать ветку "master" в "main" gi
 Привязка удаленного репозитория к локальному
 git remote add origin https://github.com/daniaminakov/git-crib.git
 git push -u origin master
+
+test
